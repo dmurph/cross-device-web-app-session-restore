@@ -3,8 +3,8 @@
 **Authors:** [Dan Murphy](https://github.com/dmurph) (Google)  
 **Participate:** [GitHub Issues](https://github.com/dmurph/cross-device-web-app-session-restore/issues)  
 **Target Venue:** W3C Web Incubator Community Group (WICG) / Web Authentication WG / WebAppSec WG  
-**Proposed Specification:** Credential Management Level 2 / Web Authentication Level 3 Extension and DBSC Integration
-**Status**: Working Draft, Exploratory.
+**Proposed Specification:** Credential Management Level 2 / Web Authentication Level 3 Extension and DBSC Integration  
+**Status:** Working Draft, Exploratory.
 
 ## Explainer Suite
 1. **Core Explainer (This Document):** Covers problem scope, the alignment gate, six mandatory rules, prior art, and candidate architectures.
